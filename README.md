@@ -41,19 +41,19 @@ The processing sketch "serial_logging" was used to monitor the serial port and c
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
 
-##Support Me
+## Support Me
 
 If you find this or any of my projects useful or enjoyable please support me.
 Anything I do get goes to buy more parts and make more/better projects.
 https://www.patreon.com/kd8bxp
 https://ko-fi.com/lfmiller
 
-##Other Projects
+## Other Projects
 
 https://www.youtube.com/channel/UCP6Vh4hfyJF288MTaRAF36w
 https://kd8bxp.blogspot.com/
 
-##Automation Technology Club
+## Automation Technology Club
 
 WHAT ARE WE ABOUT?
 - Provide sharing opportunities for everyone.
