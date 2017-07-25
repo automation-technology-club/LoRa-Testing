@@ -1,0 +1,37 @@
+2017/7/25 11:44:50 Received pack
+et 'Location: INVALID' with RSSI
+ -63
+
+2017/7/25 11:45:50 Received pack
+et 'Location: INVALID' with RSSI
+ -110
+
+2017/7/25 11:46:51 Received pack
+et 'Location: INVALID' with RSSI
+ -88
+
+2017/7/25 11:47:7 Received packe
+t '#(�ځ�Ն?o0�-�һ��T��;�!�k
+�W{�@C�C��lD��{����CX%3d��q'd
+2K6g��M@v@ro�υ' with RSSI 
+-121
+
+2017/7/25 11:47:51 Received pack
+et 'Location: INVALID' with RSSI
+ -96
+
+2017/7/25 11:48:52 Received pack
+et 'Location: INVALID' with RSSI
+ -107
+
+2017/7/25 11:49:53 Received pack
+et 'Locatiob��INVALID' with RSSI
+ -121
+
+2017/7/25 12:44:47 Received pack
+et 'Location: INVALID' with RSSI -102
+
+2017/7/25 12:46:48 Received pack
+et 'Location: INVALID' with RSSI
+ -87
+
