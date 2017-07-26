@@ -39,7 +39,7 @@ void loop() {
     while(true);
   }
 
-delay(60000);
+delay(20000);
  
 
 }
