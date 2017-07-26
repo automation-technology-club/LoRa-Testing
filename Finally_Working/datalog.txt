@@ -1,0 +1,118 @@
+
+Received packet 'Location: INVALID' with RSSI -74
+
+Received packet 'Location: INVALID' with RSSI -74
+
+Received packet 'Location: INVALID' with RSSI -76
+
+Start
+Start
+Received packet 'Location: INVALID' with RSSI -73
+
+Received packet 'Location: INVALID' with RSSI -73
+
+Received packet 'Location: INVALID' with RSSI -75
+
+Received packet 'Location: INVALID' with RSSI -76
+
+Received packet 'Location: INVALID' with RSSI -87
+
+Received packet 'Location: INVALID' with RSSI -88
+
+Received packet 'Location: INVALID' with RSSI -92
+
+Received packet 'Location: INVALID' with RSSI -92
+
+Received packet 'çb5ïjC&≠
+
+nﬂú3Ó{Ω)†[FJ•ç‚ÑYÛ˛ˆ:
+
+Rü
+0‚‘Y›øEåïZΩ1çˆªá
+©	uÏõ´*áΩ÷QY√æCÏ'¬î7ë’H‚ÇxÙ©ª&
+íﬂåµ∏O∏3Ÿë’m§Œ≥±a:Ëÿz
+
+∫' with RSSI -118
+
+Received packet 'Location: INVALID' with RSSI -113
+
+Received packet 'Location: INVALID' with RSSI -114
+
+Received packet 'Location: INVALID' with RSSI -104
+
+Received packet 'Location: INVALID' with RSSI -101
+
+Received packet 'Location: INVALID' with RSSI -81
+
+Received packet 'Location: INVALID' with RSSI -82
+
+Received packet 'Location: INVALID' with RSSI -88
+
+Received packet 'Location: INVALID' with RSSI -84
+
+Received packet 'Location: INVALID' with RSSI -84
+
+Received packet 'Location: INVALID' with RSSI -83
+
+Received packet 'Location: INVALID' with RSSI -81
+
+Received packet 'Location: INVALID' with RSSI -81
+
+Received packet 'Location: INVALID' with RSSI -86
+
+Received packet 'Location: INVALID' with RSSI -86
+
+Received packet 'Location: INVALID' with RSSI -88
+
+Received packet 'Location: INVALID' with RSSI -89
+
+Received packet 'Location: INVALID' with RSSI -89
+
+Received packet 'Location: INVALID' with RSSI -90
+
+Received packet 'Location: INVALID' with RSSI -90
+
+Received packet 'Location: INVALID' with RSSI -96
+
+Received packet 'Location: INVALID' with RSSI -97
+
+Received packet 'Location: INVALID' with RSSI -90
+
+Received packet 'Location: INVALID' with RSSI -90
+
+Received packet 'Location: INVALID' with RSSI -105
+
+Received packet 'Location: INVALID' with RSSI -105
+
+Received packet 'Location: INVALID' with RSSI -115
+
+Received packet 'Location: INVALID' with RSSI -107
+
+Received packet 'Location: INVALID' with RSSI -113
+
+Received packet 'Lioation: INVALID' with RSSI -111
+
+Received packet 'Location: INVALID' with RSSI -114
+
+Received packet 'Location: INVALID' with RSSI -115
+
+Received packet 'Location: 39.541191,-84.290931' with RSSI -110 'At McDonalds 1.png
+
+Received packet 'Locatioé¢6?"U2Q791,-84.2y<qJË' with RSSI -115 'Bad Data
+
+Received packet 'Location: 39.541191,-84.290931' with RSSI -113 'At McDonalds
+
+Received packet 'Location: 39.5§1591,-84.29:9:1' with RSSI -114 'Bad Data
+
+Received packet 'Location: 39.541191,-84.290931' with RSSI -98 'At McDonalds
+
+Received packet 'Location: 39.541191.84.290931' with RSSI -114 'Bad Data Probably McDonalds
+
+Received packet 'Location: 39.464008,-84.326293' with RSSI -115 'Interstate 75 Near Solid Rock Church 2.png,2a.png and 2b.png About 6.5 miles
+
+Received packet 'Location: 39.559246,-84.274017' with RSSI -114 'I75 Near 2nd Street Franklin, Ohio 3.png and 3b.png about 2.0 miles
+
+Received packet 'Location: 39.559246,-84.274017' with RSSI -113 'same
+
+Received packet 'Location: 39.541759,-84.289978' with RSSI -85 'home 4.png
+
